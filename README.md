@@ -1,5 +1,5 @@
 ### Nice to meet you.
-I am Badass, a middle school student, and I am a beginners of the programming world.
+I am Badass, a middle school student, and I am a beginner of the programming world.
 
 
 
