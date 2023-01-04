@@ -1,10 +1,10 @@
 ### Nice to meet you.
 I am Badass, a middle school student, and I am a beginner of the programming world.
 
-Programing languages list
-☕Java (main
-🟨JavaScript
-🟢C (learning...
+Programing languages list\n
+☕Java (main\n
+🟨JavaScript\n
+🟢C (learning...\n
 
 <!--
 ### Hi there 👋
