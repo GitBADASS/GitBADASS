@@ -1,7 +1,7 @@
 ### 月曜日、蹴飛ばしたら
 I am Badass, a middle school student.
 
-Languages list
+Language list:
 
 ☕Java 
 
