@@ -1,6 +1,6 @@
 **月曜日、蹴飛ばしたらゴミ箱にも嫌われて**
 
-I am Badass, a middle school student.
+Hi, I am Badass(バイダス), a middle school student.
 
 Language list:
 
