@@ -1,14 +1,13 @@
-### Nice to meet you.
+### 月曜日、蹴飛ばしたら
 I am Badass, a middle school student.
 
 Languages list
 
-☕Java (main
+☕Java 
+
+🟢C
 
 🟨JavaScript
-
-🟢C (learning...
-
 <!--
 ### Hi there 👋
 
