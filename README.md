@@ -8,6 +8,8 @@ Language list:
 
 🟢C
 
+🟠C#
+
 🟨JavaScript
 <!--
 ### Hi there 👋
