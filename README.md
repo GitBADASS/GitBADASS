@@ -1,6 +1,6 @@
 **月曜日、蹴飛ばしたら、川の水面で水切り、満月を真っ二つ切り裂いた。**
 
-Hi, I am Badass(バイダス), a middle school student.
+Hi, I am Badass(バダス), a middle school student.
 
 Language list:
 
