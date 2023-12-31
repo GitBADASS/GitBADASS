@@ -3,12 +3,13 @@
 Hi, I am Badass(バダス), a middle school student.
 
 Language list:
+🧙‍♂️Lisp Scheme
+
+🟠C#
 
 ☕Java 
 
 🟢C
-
-🟠C#
 
 🟨JavaScript
 <!--
