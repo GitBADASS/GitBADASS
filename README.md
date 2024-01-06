@@ -2,11 +2,11 @@
 
 Hi, I am Badass(バダス), a middle school student.
 
-Language list:  
+Language List:  
   
 🧙‍♂️Lisp Scheme
 
-🟠C#
+🟣C#
 
 ☕Java 
 
