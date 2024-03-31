@@ -2,13 +2,15 @@
 
 Hi, I am Badass(バダス), a middle school student from China.
 
-Language List:  
-  
-🧙‍♂️Lisp Scheme
+Main Language List:  
 
 🟣C#
 
 ☕Java 
+
+Learning:
+
+🧙‍♂️Lisp Scheme
 
 🟢C
 
