@@ -1,5 +1,4 @@
-**月曜日、蹴飛ばしたら、川の水面で水切り、満月を真っ二つ切り裂いた。**
-
+<!--**月曜日、蹴飛ばしたら、川の水面で水切り、満月を真っ二つ切り裂いた。**-->
 Hi, I am Badass(バダス), a middle school student from China.
 
 Main Language List:  
